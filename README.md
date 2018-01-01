@@ -1,8 +1,8 @@
-#Take Screenshot
+# Take Screenshot
 Chrome extension to take screenshot of the entire web page
 
 
-##Instalation
+## Instalation
 - Clone this repository (git clone git@github.com:marcinwieprzkowicz/take-screenshot.git)
 - Go to **[chrome://extensions/](chrome://extensions/)**
 - Enable "Developer mode"
@@ -10,7 +10,7 @@ Chrome extension to take screenshot of the entire web page
 - Select the folder of this repository
 
 
-##Usage
+## Usage
 - Go to any web page
 - Click on plugin icon ![plugin icon](https://raw2.github.com/marcinwieprzkowicz/take-screenshot/master/images/icon-19.png)
 - Wait, until new tab will open with image
